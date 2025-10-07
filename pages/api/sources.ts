@@ -11,7 +11,7 @@ type Data = {
 
 const searchHandler = async (req: NextApiRequest, res: NextApiResponse<Data>) => {
   try {
-    /**
+    /** HERE WE WOULD IMPLEMENT THE SEARCH AND SCRAPING LOGIC
     const { query, model } = req.body as {
       query: string;
       model: OpenAIModel;

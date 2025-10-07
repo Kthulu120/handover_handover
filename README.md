@@ -4,4 +4,10 @@
 
 Update the OPENAI key in the /api/answer folder to test
 
+## Instructions
+
+`yarn`
+
+`yarn dev`
+
 **Check out the links**
